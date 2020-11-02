@@ -1,0 +1,24 @@
+.container-section-lead-intro{
+    max-width: 83.112%;
+    margin: 0 auto;
+}
+
+@media (max-width:1024px){
+    .container-section-lead-intro{
+        max-width: 90.81%;
+    }
+}
+
+@media (max-width:768px){
+    .container-section-lead-intro{
+        max-width: 100%;
+    }
+}
+@media (max-width:320px){
+    .container-section-lead-intro{
+        max-width: 320px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}

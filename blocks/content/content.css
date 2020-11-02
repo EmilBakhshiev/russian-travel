@@ -1,0 +1,30 @@
+.content{
+    max-width: 1184px;
+    background: #2A2C2F;
+    margin: 0 auto;
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+    padding-top: 28px;
+    padding-bottom: 24px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  @media (max-width:1024px){
+    .content{
+      max-width: 1024px;
+    }
+  }
+  @media (max-width:768px){
+    .content{
+      max-width: 768px;
+    }
+  }
+  @media (max-width:320px){
+    .content{
+      max-width: 320px;
+      padding-top: 16px;
+      padding-bottom: 24px;
+    }
+  }

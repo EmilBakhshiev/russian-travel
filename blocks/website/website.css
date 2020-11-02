@@ -1,0 +1,20 @@
+.website{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-end;
+    max-width: 100%;
+    grid-area: url;
+}
+
+@media (max-width:700px){
+    .website{
+        display: none;
+    }
+}
+
+@media (max-width:320px){
+    .website{
+        display: none;
+    }
+}
