@@ -6,19 +6,12 @@
     text-transform: uppercase;
     align-self: flex-start;
     margin-top: 8px;
-    margin-bottom: 0px;
     padding: 0px;
+    text-align: left;
 }
 
 @media (max-width: 768px){
     .lead__caption{
         margin-left: 24px;
-    }
-}
-
-
-@media (max-width: 320px){
-    .lead__caption{
-        margin-left: 16px;
     }
 }
