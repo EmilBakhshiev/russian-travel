@@ -30,9 +30,8 @@
 /*intro end*/
 
 /*photo-grid start*/
-@import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/galery/galery.css);
+@import url(../blocks/galery/__item/galery__item.css);
 /*photo-grid end*/
 
 /*place start*/
