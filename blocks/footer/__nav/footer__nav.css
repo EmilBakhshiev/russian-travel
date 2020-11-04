@@ -1,4 +1,4 @@
-.nav{
+.footer__nav{
     max-width: 100%;
     margin: 0 auto;
     display: flex;
@@ -6,19 +6,19 @@
 }
 
 @media (max-width:1024px){
-    .nav{
+    .footer__nav{
         max-width: 90.81%;
     }
 }
 
 @media (max-width:768px){
-    .nav{
+    .footer__nav{
         max-width: 94%;
     }
 }
 
 @media (max-width: 320px){
-    .nav{
+    .footer__nav{
         max-width: 58.50%;
         margin: 0;
     }

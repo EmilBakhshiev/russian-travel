@@ -2,12 +2,11 @@
     max-width: 1184px;
     background: #2A2C2F;
     margin: 0 auto;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     color: #FFFFFF;
     padding-top: 28px;
     padding-bottom: 24px;
-    border: 1px red solid;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
   }

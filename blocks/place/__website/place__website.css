@@ -1,4 +1,4 @@
-.website{
+.place__website{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -7,14 +7,8 @@
     grid-area: url;
 }
 
-@media (max-width:700px){
-    .website{
-        display: none;
-    }
-}
-
-@media (max-width:320px){
-    .website{
+@media (max-width:713px){
+    .place__website{
         display: none;
     }
 }

@@ -7,15 +7,21 @@
     margin-bottom: 56px;
 }
 
-@media screen and (max-width: 1024px){
+@media (max-width: 1024px){
     .header{
        margin-bottom: 48px;
        max-width: 90.81%;
     }
 }
 
-@media (max-width:768px){
+@media (max-width: 768px){
     .header{
         max-width: 94%;
+    }
+}
+
+@media (max-width: 768px){
+    .header{
+        max-width: 90.6%;
     }
 }

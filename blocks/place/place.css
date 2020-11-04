@@ -20,7 +20,7 @@
     }
 }
 
-@media (max-width:768px){
+@media (max-width:975px){
     .place{
         grid-template-columns: 340px 1fr;
         column-gap: 28px;
@@ -29,7 +29,7 @@
     
 }
 
-@media (max-width:700px){
+@media (max-width:713px){
     .place{
         display: block;  
     }
@@ -37,7 +37,6 @@
 
 @media (max-width:320px){
     .place{
-        display: block;
         margin-bottom: 61px; 
     }
 }
