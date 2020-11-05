@@ -10,7 +10,6 @@
 
 @media (max-width: 1024px){
     .galery{
-        margin-bottom: 92px;
         max-width: 90.63%;
         grid-gap: 14px;
     }

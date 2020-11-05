@@ -41,13 +41,7 @@
     }
 }
 
-@media (max-width:400px){
-    .cover{
-        min-height: 200px;
-    }
-}
-
-@media (max-width:320px){
+@media (max-width:425px){
     .cover{
         min-height: 200px;
     }
